@@ -7,5 +7,5 @@ Create android/ios project and add the keys in this project constant file.<br>
 Run the app.</p>
 
 <p>
-    <img src="https://github.com/Dineth95/FaceMask/blob/master/screenshots/s-1.jpg?raw=true" alt="drawing" width:"200" height: "500" />
+    <img src="https://github.com/Dineth95/FaceMask/blob/master/screenshots/s-1.jpg?raw=true" alt="drawing" width:"70" height: "200" />
 </p>
