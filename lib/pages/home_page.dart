@@ -29,7 +29,7 @@ class _HomePageViewState extends State<HomePageView> {
                 child: Text("Permission failed"),
               );
             }
-            if (state is PermissionSuccess) {
+            if (state is PermissionSuccess || state is HomePageLoaded) {
               return Stack(
                 children: [
                   //Deep AR Camera
